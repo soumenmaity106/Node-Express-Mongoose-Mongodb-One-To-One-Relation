@@ -1,3 +1,3 @@
 module.exports = {
-    url:"mongodb://localhost:27017/nodejs-demo5"
+    url:"mongodb://localhost:270172/dbproduct"
 }
